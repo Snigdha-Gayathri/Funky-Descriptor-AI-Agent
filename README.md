@@ -14,3 +14,4 @@ Extensible & Customizable: Built on n8n, allowing for easy modification of the d
 Input Reading Data: The workflow is triggered by an update to a user's reading list (e.g., a new book read). This can be manually input, or ideally, integrated with a book tracking API (e.g., Goodreads, custom database).
 AI Description Logic: An AI component (e.g., a custom script, an LLM node in n8n) processes the book titles, genres, and potentially user-provided tags to synthesize a unique, "funky" profile. This is where the magic happens, transforming raw data into engaging prose.
 Email Notification: The generated description is then formatted and sent via an email node to the user's pre-configured email address.
+HERE IS WHERE YOU CAN TRY IT: https://snigdhagayathri.app.n8n.cloud/workflow/eE0HdfcCjs1DFcW8
